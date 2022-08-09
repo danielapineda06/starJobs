@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+    body {
+        background-color: white;
+        /* white */
+
+    }
+    
+}
+  
+
+.fondo {
+    width: 100%;
+    height: 100%;
+
+
+}
+
+
+.contacto {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    background-size: cover;
+
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.logo {
+    width: 170px;
+    height: 100px;
+}
+
+.lista {
+
+    text-decoration-style: solid;
+    font-style: normal;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: initial;
+    color: blueviolet;
+}
+
+.pie {
+    background-color: blueviolet;
+}
+
+.foo {
+    color: white;
+}
+
+.pief {
+    background-color: midnightblue;
+    height: 110px;
+}
+.navbar{
+    background-color: white;
+}
