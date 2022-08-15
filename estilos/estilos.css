@@ -36,7 +36,7 @@
 }
 
 .logo {
-    width: 170px;
+    width: 100px;
     height: 100px;
 }
 
@@ -56,7 +56,6 @@
     width: 100%;
     height: 100%;
     color: blueviolet;
-
 }
 .navbar{
     background-color: white;
@@ -69,12 +68,12 @@ display: flow-root;
 }
 
 .contactoo{
-   margin-left: 70px;
+   margin-left: 40px;
    font-family: 'Courier New', Courier, monospace;
 
 }
 body{
-    background-color: #356999;
+    background-color: #e1e3e4 ;
 
 }
 .columnas{
@@ -91,19 +90,36 @@ body{
    
 }
 .por{
-    width: 100%%;
+    border-radius: 0.5cm;
+    border: 1px double;
+    font-size: 25px;
+    text-align: center;
+    color: #762ae8;
+    background-color: #acaab8;
+    width: 97%;
     height: 100%;
     margin-top: 20px;
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 20px;
-    display: block;
-    font-family: Roboto, sans-serif;
-    color: rgb(248, 245, 245);
-    font-size: 16px;
-    line-height: 22px;
-    text-align: initial;
-    background-color:#1a4789;
-
-    
+    display: b0ock;
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment: fixed;
 }
+
+.qu{
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: white;
+}
+.tit{
+    color: #762ae8;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.acor{
